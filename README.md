@@ -3,10 +3,10 @@
 <u>♥️ mr-andbad-md 🚘 🚘 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ mr-andbad ♥️</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/efa95dac659f93718b73f.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/51d1eaa241382820e00c5.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=LOS+RIOS+md+WHATSAPP+BOT+🚘" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=MR+ANDBAD+md+WHATSAPP+BOT+💫" alt="">
 </p>
 <p align="center">
 <a href="https://wa.me/message/MZ7PT2QZ3TNSC1"><img title="Creator" src="https://img.shields.io/badge/Creator-ᴠᴇɴᴏᴄʏʙᴇʀ-red.svg?style=for-the-badge&logo=github"></a>

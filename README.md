@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<u>♥️ mr-andbad-md 🚘 🚘 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ mr-andbad ♥️</u>
+<u>💫 mr-andbad-md 💫💫ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ mr-andbad 💫</u>
 </p>
 <p align="center">
 <img src="https://telegra.ph/file/51d1eaa241382820e00c5.jpg" width="300" height="300"/>

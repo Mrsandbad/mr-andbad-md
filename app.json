@@ -1,9 +1,9 @@
 {
-  "name":"LOS RIOS MD 🚘",
-  "description":"LOS RIOS MD MULTIDIVICE CREATED BY VENOCYBER",
-  "keywords":["VENOCYBER","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/efa95dac659f93718b73f.jpg",
-  "repository":"https://github.com/Kingjux/Los-Rios-md",
+  "name":"mr-andbad-md",
+  "description":"mr-andbad-md MD MULTIDIVICE CREATED BY mrandbad",
+  "keywords":["mr-andbad-md","node","baileys","whatsapp"],
+  "logo":"https://telegra.ph/file/51d1eaa241382820e00c5.jpg",
+  "repository":"https://github.com/Mrandbad/mr-andbad-md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"ʟᴏs ʀɪᴏs 🚘 𝗠𝗗 𝗕𝗢𝗧",
+      "value":"mr-andbad-md",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/efa95dac659f93718b73f.jpg",
+      "value":"https://telegra.ph/file/51d1eaa241382820e00c5.jpg","https://telegra.ph/file/786da520236ba0479b674.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR VENOCYBER"
+    "value": "MR-ANDBAD"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255698101622"
+    "value": "255768318788"
   },
     "WARN_COUNT":
   {

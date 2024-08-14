@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<u>♥️ ʟᴏs ʀɪᴏs ᴍᴅ 🚘 🚘 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝐕𝐞𝐧𝐨𝐜𝐲𝐛𝐞𝐫 𝐀𝐝𝐦𝐢𝐧 ♥️</u>
+<u>♥️ mr-andbad-md 🚘 🚘 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ mr-andbad ♥️</u>
 </p>
 <p align="center">
 <img src="https://telegra.ph/file/efa95dac659f93718b73f.jpg" width="300" height="300"/>

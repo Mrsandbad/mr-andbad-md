@@ -14,11 +14,11 @@
 <p align="center">
 <a href="https://github.com/Mrandbad?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
 <a href="https://github.com/Mrandbad/mr-andbad-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mrandbad/mr-andbad-md?color=white&style=flat-square"></a>
-<a href="https://github.com/Mrandbad/mr-andbad-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingjux/Los-Rios-md?color=yellow&style=flat-square"></a>
-<a href="https://github.com/kingjux/Los-Rios-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingjux/Los-Rios-md?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Mrandbad/mr-andbad-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mrandbad/mr-andbad-md?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Mrandbad/mr-andbad-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingjux/Los-Rios-md?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/kingjux/Los-Rios-md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kingjux/Los-Rios-md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/kingjux/Los-Rios-md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mrandbad/mr-andbad-md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Mrandbad/mr-andbad-md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
 # 
@@ -27,20 +27,20 @@
 <b>Version -> 2.0.0</b>
 
 ### DISCLAIMER ⚠️⚠️⚠️
-[PLEASE KINDLY DON'T MAKE ANY CHANGES ON THIS REPO BEFORE CONTACT THE OWNER CLICK HERE TO NOTIFY](https://wa.me/message/255625774543)
+[PLEASE KINDLY DON'T MAKE ANY CHANGES ON THIS REPO BEFORE CONTACT THE OWNER CLICK HERE TO NOTIFY](https://wa.me/message/255768318788)
  
 # Los Rios MD whatsapp bot is,
 
       Los Rios md whatsapp bot is an easy to use whatsapp robot.   |  Los Rios md whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 #
-*[follow the developer by clicking here](https://github.com/kingjux/)
+*[follow the developer by clicking here](https://github.com/Mrandbad.com)
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
 <p align="left">
-<a href="https://github.com/kingjux/Los-Rios-md/fork"><img align="center" src="https://telegra.ph/file/ef0bf595dc5999821c859.jpg" alt="Fork and deploy" height="50" width="200" /></a>
+<a href="https://github.com/Mrandbad/mr-andbad-md/fork"><img align="center" src="https://telegra.ph/file/ef0bf595dc5999821c859.jpg" alt="Fork and deploy" height="50" width="200" /></a>
 
 # 
 
@@ -118,8 +118,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/kingjux/Los-Rios-md
-cd Los-Rios-md
+git clone https://github.com/Mrandbad/mr-and bad-md.git
+cd mr-and bad-md
 npm install
 npm start
 ```
@@ -139,9 +139,9 @@ npm start
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANKS FOR USING ᴠᴇɴᴏᴄʏʙᴇʀ x ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ 💃💖
+THANKS FOR USING 𝚳𝚪-𝚫𝚴𝐃 𝚩𝚫𝐃-𝚳𝐃 💃💖
 
-* [🧑‍💻 Join Venocyber Support Group 🧑‍💻](https://whatsapp.com/channel/0029VaZHLuR42DcfepqNuh1e)
+* [🧑‍💻 Join 𝚳𝚪 𝚫𝚴𝐃𝚩𝚫𝐃 Support Group 🧑‍💻](https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m)
 
 * [🦄 Join Public Group 🦄](https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN)
 
